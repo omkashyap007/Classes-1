@@ -10,7 +10,7 @@ class Employee:
 
     # __init__ is the constructor which is used to create instances and arguments.
     # the first , last and pay are called the arguments .
-    # the variables defined in the   
+    # the variables defined in the __init__ fucntion are called arguments ..
 
     # self here is bascially an insatnce ..
     # writing emp_1.first = first  .. is same are self.first = first
