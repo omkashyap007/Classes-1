@@ -23,6 +23,7 @@ emp_2 = Employee("Someone" , "Unknown" , 1000)
 
 print(repr(emp_1))
 print(emp_1.__repr__())
+
 # the dunder and the funciton repr works the same way .
 
 
